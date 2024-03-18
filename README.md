@@ -9,7 +9,6 @@
 
 ## 🙋‍♂️ About Me:
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Fayoum University
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 - 🌱 I’m currently learning **Mobile Application Using Flutter**.
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Mo7amed-Soliman?tab=repositories)**.
 - :thinking: I’m currently open for: `An Intern`
