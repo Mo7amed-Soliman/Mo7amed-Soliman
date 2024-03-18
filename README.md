@@ -15,9 +15,9 @@
 
 
 ## :sassy_man:  About me
-- :School: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :Student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :Thinking: I’m currently open for: `An Intern`
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for: `An Intern`
 
  
 **Mo7amed-Soliman/Mo7amed-Soliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
