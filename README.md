@@ -4,13 +4,14 @@
 </p>
 
 
- 
-
-
-## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+## 🙋‍♂️ About Me:
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Fayoum University
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🌱 I’m currently learning **Mobile Application Using Flutter**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
 - :thinking: I’m currently open for: `An Intern`
+
+
 
  
 **Mo7amed-Soliman/Mo7amed-Soliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
