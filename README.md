@@ -48,4 +48,37 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
- 
+
+
+ ## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/mohamed-soliman-83a61b268/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ms3196@fayoum.edu.eg">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+    
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+
+<br>
+
+## ❣️ Views and Followers:
+
+<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mo7amed-Soliman">
+</a>
+<a href="https://github.com/Mo7amed-Soliman?tab=followers"><img src="https://img.shields.io/github/followers/Mo7amed-Soliman?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
