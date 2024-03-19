@@ -37,7 +37,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mo7amed-Soliman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed-Soliman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
 <p align="center">
 <a href="https://github.com/Mo7amed-Soliman/github-readme-stats"><img alt="Mo7amed-Soliman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Soliman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Mo7amed-Soliman/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amed-Soliman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -51,14 +50,16 @@
 
 
  ## 🤝 Connect With Me:
-
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-soliman-83a61b268/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
+
   <a href="mailto:ms3196@fayoum.edu.eg">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-
+  <a href="https://leetcode.com/Mo7amed_Soliman/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square" />
+    </a>
     
 </div>
 
